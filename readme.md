@@ -1,6 +1,6 @@
 # 🌌 Acode AI CLI Assistant Plugin
 
-[![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/RenzMc/Acode-Plugin-AI-cli)
+[![Version](https://img.shields.io/badge/version-1.0.1-blue.svg)](https://github.com/RenzMc/Acode-Plugin-AI-cli)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Android-brightgreen.svg)](https://acode.app)
 [![AI Support](https://img.shields.io/badge/AI-Multi--Provider-purple.svg)](#supported-ai-providers)
@@ -28,6 +28,7 @@ An advanced AI-powered coding assistant plugin for Acode (Android Code Editor) t
 - **Smart Error Detection** - Catch bugs before they happen
 - **Context-Aware Suggestions** - Intelligent code completion
 - **Performance Optimization** - Automatic caching and debouncing
+- **This feature is under development**
 
 ### 🛠️ **Bulk Operations**
 - **Multi-File Renaming** - Rename multiple files with patterns
@@ -139,7 +140,7 @@ The plugin automatically adapts to your Acode theme:
 ## 🎯 Usage Guide
 
 ### 💬 **Basic Chat**
-1. Open the Renz Ai using Ctrl/Cmd + Shift + A
+1. Open the Renz Ai using Ctrl/Cmd + Shift + P
 2. Type your coding question or request
 3. Get instant AI-powered responses
 4. Copy code snippets with one tap
@@ -181,7 +182,7 @@ Create reusable prompts for common tasks:
 
 ### **Context Menu Integration**
 - Right-click any code selection
-- Choose **"Ask AI"** for instant analysis
+- Choose **"✨"** for instant analysis
 - Get context-aware suggestions
 
 ## 🎨 Customization
@@ -211,7 +212,6 @@ Perfect experience across all devices:
 - **📱 Mobile Landscape**: Adapted for landscape typing
 - **📚 Tablet Portrait**: Enhanced for larger screens
 - **📚 Tablet Landscape**: Full desktop-like experience
-- **🖥️ Desktop**: Complete feature set
 
 ## 🔐 Security & Privacy
 
